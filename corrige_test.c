@@ -56,8 +56,12 @@ int main()
         }
     }
 
+    /* on parcours notre tableau
+   trié dans l'ordre croissant
+   et on affiche les valeurs
+   qui vont consituté le nombre demandé*/
     for (int j = 0; j < i; ++j)
     {
-        printf("%d ", T[j]);
+        printf("%d", T[j]);
     }
 }
