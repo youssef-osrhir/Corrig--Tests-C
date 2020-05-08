@@ -11,7 +11,7 @@ int main()
        stocker le type int qui est de 2147483647, ainsi le nombre
        max de chiffre qu'on aura à stocker sera de 10 dans le pire des cas
        c'est pourquoi j'ai déclaré un tableau de 10 cases. */
-
+ 
     int T[10];
 
     /*la première phase va consister à stocker chacun des chiffres
