@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
-#define N 100
+#define N 1000
 
 bool isprime(int x) //fonction qui vérifie si un nombre x est premier ou pas.
 {
