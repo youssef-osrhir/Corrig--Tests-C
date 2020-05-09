@@ -13,7 +13,7 @@ bool isprime(int x) //fonction qui vérifie si un nombre x est premier ou pas.
             return false;
     }
     return true;
-}
+} 
 
 int main()
 {
