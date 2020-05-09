@@ -4,7 +4,7 @@
 int main()
 {
     int n;
-
+ 
     scanf("%d", &n);
 
     /*au pire des cas n prendra la valeur maximale que peut 
